@@ -29,6 +29,7 @@ Few things I'd like to add in the future:
 
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
 - [Node.js](https://nodejs.org/en/)
+- [team](https://ltcbuzy.gitbook.io/gitbook-to-learr/)
 
 ```bash
 # ensure you have the prerequisites
